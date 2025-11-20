@@ -1,28 +1,28 @@
-Java Chatbot 
+#Java Chatbot 
 
-Overview:
+#Overview:
 A simple rule-based chatbot built in Java using Maven.  
 It responds to keywords like "resume", "interview", "internship", and "job" with helpful answers.
 
 This project is designed to demonstrate Java programming, collections (HashMap), and basic user interaction.
 
 
-Features:
+#Features:
 - Rule-based keyword detection
 - Predefined answers for internship & career-related queries
 - Simple, extendable structure (just add more rules!)
 - Runs directly with Maven (`mvn exec:java`)
 
-How to Run:
+#How to Run:
 Make sure you have Java 17+ and Maven installed.
 
-# Navigate
+Navigate
 cd ai-chatbot
 
-# Compile
+Compile
 mvn clean compile
 
-#Run
+Run
 mvn exec:java -Dexec.mainClass="com.chatbot.App"
 
 Chatbot: Hello! I’m your AI chatbot. Type 'bye' to exit.
@@ -38,6 +38,9 @@ Chatbot: Internships are a great way to gain experience. Do you want tips on res
 You: bye
 Chatbot: Goodbye! Have a great day.
 
+#Sample Interaction:
+
+<img width="1460" height="841" alt="ss" src="https://github.com/user-attachments/assets/d0b182f8-7595-42a4-870f-de778cb822c6" />
 
 Future Improvements:
 - Adding more keywords for broader conversation
