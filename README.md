@@ -12,6 +12,11 @@ Features:
 - Simple, extendable structure (just add more rules!)
 - Runs directly with Maven (`mvn exec:java`)
 
+## 🛠️ How to Run
+Make sure you have **Java 17+** and **Maven** installed.
+
+```bash
+
 How to Run:
 Make sure you have Java 17+ and Maven installed.
 
