@@ -1,8 +1,8 @@
-# Java Chatbot 🤖
+Java Chatbot 
 
-## 📌 Overview
-A simple **rule-based chatbot** built in Java using Maven.  
-It responds to keywords like **"resume"**, **"interview"**, **"internship"**, and **"job"** with helpful answers.
+Overview:
+A simple rule-based chatbot built in Java using Maven.  
+It responds to keywords like "resume", "interview", "internship", and "job" with helpful answers.
 
 This project is designed to demonstrate **Java programming, collections (HashMap), and basic user interaction** — making it a great portfolio project for internship applications.
 
