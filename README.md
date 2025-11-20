@@ -15,20 +15,6 @@ Features:
 ## 🛠️ How to Run
 Make sure you have **Java 17+** and **Maven** installed.
 
-```bash
-
-How to Run:
-Make sure you have Java 17+ and Maven installed.
-
--Navigate
-cd ai-chatbot
-
--Compile
-mvn clean compile
-
--Run
-mvn exec:java -Dexec.mainClass="com.chatbot.App"
-
 Sample Interaction:
 Chatbot: Hello! I’m your AI chatbot. Type 'bye' to exit.
 You: hello
@@ -56,4 +42,20 @@ Future Improvements:
 Author:
 Bibek Dhakal 
 A CS Undergrad student  
+
+
+
+```bash
+
+How to Run:
+Make sure you have Java 17+ and Maven installed.
+
+-Navigate
+cd ai-chatbot
+
+-Compile
+mvn clean compile
+
+-Run
+mvn exec:java -Dexec.mainClass="com.chatbot.App"
 
