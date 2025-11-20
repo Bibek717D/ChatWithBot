@@ -16,7 +16,6 @@ Features:
 How to Run:
 Make sure you have Java 17+ and Maven installed.
 
-```bash
 # Navigate
 cd ai-chatbot
 
