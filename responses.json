@@ -1,0 +1,13 @@
+{
+  "hello": "Hi there! How can I help you?",
+  "hi": "Hi there! How can I help you?",
+  "how are you": "I’m just code, but I’m doing great! Thanks for asking.",
+  "resume": "Keep your resume 1 page, highlight projects, and tailor it to each job!",
+  "interview": "Common questions: Tell me about yourself, strengths/weaknesses, and project experience.",
+  "internship": "Internships are a great way to gain experience. Do you want tips on resumes or interviews?",
+  "job": "Apply early, customize your resume, and network with recruiters on LinkedIn.",
+  "apply": "Always tailor your application to the job description.",
+  "thank you": "You’re welcome! Happy to help 😊",
+  "bye": "Goodbye! Have a great day.",
+  "help": "You can ask me about resume, interview, internship, jobs, or just say hi!"
+}
