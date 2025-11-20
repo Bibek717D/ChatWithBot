@@ -51,5 +51,5 @@ You: bye
 
 
 ## 👨‍💻 Author
-**Bibek Dhakal** – 
+**Bibek Dhakal** 
 
