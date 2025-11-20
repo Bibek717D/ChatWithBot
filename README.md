@@ -4,7 +4,7 @@
 A simple **rule-based chatbot** built in Java using Maven.  
 It responds to keywords like **"resume"**, **"interview"**, **"internship"**, and **"job"** with helpful answers.
 
-This project is designed to demonstrate **Java programming, collections (HashMap), and basic user interaction** — making it a great portfolio project for internship applications.
+This project is designed to demonstrate **Java programming, collections (HashMap), and basic user interaction**
 
 ---
 
@@ -51,5 +51,5 @@ You: bye
 
 
 ## 👨‍💻 Author
-**Bibek Dhakal** – A student  
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) | [GitHub](https://github.com/YOUR-GITHUB)
+**Bibek Dhakal** – 
+
