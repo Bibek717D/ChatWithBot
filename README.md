@@ -42,8 +42,7 @@ You: bye
 Chatbot: Goodbye! Have a great day.
 
 Sample Interaction:
-<img width="1470" height="956" alt="ss" src="https://github.com/user-attachments/assets/0e5b4ff4-973f-4df1-a1a9-7db89e1a0bf4" />
-
+<img width="1460" height="841" alt="ss" src="https://github.com/user-attachments/assets/9e573a80-43df-49b7-8a2c-bc813d309d29" />
 
 Future Improvements:
 - Adding more keywords for broader conversation
